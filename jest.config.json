@@ -1,0 +1,7 @@
+{
+  "testEnvironment": "node",
+  "testPathIgnorePatterns": [
+    "__tests__/fixtures/",
+    "__tests__/plugin.macro.js"
+  ]
+}

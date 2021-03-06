@@ -1,0 +1,5 @@
+({
+  ...(props.isBlue && {
+    color: 'blue'
+  })
+});
