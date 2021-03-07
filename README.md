@@ -29,9 +29,9 @@ css`
 ```javascript
 {
   color: 'red',
-  'font-size': props.fontSize,
+  fontSize: props.fontSize,
   ...(props.isBlue && { color: 'blue' }),
-  'animation-name': {
+  animationName: {
     from: { opacity: 1 },
     to: { opacity: 0 }
   }
